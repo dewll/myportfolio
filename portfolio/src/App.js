@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
 import Main from './components/main';
@@ -12,7 +12,7 @@ function App() {
             <Navigation>
                 <Link to="/resume">Resume</Link>
                 <Link to="/aboutme">About Me</Link>
-                <Link to="/projects">projects</Link>
+                <Link to="/projects">Projects</Link>
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
