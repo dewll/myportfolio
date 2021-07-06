@@ -15,10 +15,10 @@ class Landingpage extends Component{
                     </Cell>
 
                     <div className="banner-text">
-                        <h1>Full Stack Web Development</h1>
+                        <h1>Web Developer</h1>
 
                     <hr/>
-                  <p>HTML/CSS | Flask | Bootstrap | javascript | React  </p>
+                  <p>HTML/CSS | Flask | Bootstrap | javascript | React | Node | Express </p>
 
                     </div>
 

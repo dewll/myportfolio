@@ -14,48 +14,27 @@ class Contact extends Component{
                     
                     />
                     <p style={{width: '75%', margin: 'auto', paddingTop:'1em'}}>
-                    Python programming language <br/>
-                    building and  improvement of industrial panel */}
-                    Microsoft office 
-                    domestic wiring
-                    Successful working in a team environment, as well as independently
-                    The ability to work under pressure and multi-task
-                    The ability to follow instructions and deliver quality results.</p>
-                    <p>
-                   FullStack Web development
-                     building and  improvement of industrial panel
-                    Microsoft office 
-                    domestic wiring
-                    Successful working in a team environment, as well as independently
-                    The ability to work under pressure and multi-task
-                    The ability to follow instructions and deliver quality results
-                    </p>
+                    Liittle Details About Me <br/>
+                    My name is Balogun Sodiq, im a student of Obafemi Awolowo University,
+                    in the department of Electronic and Electrical Engineering, I am a Software Developer,
+                     basically I am focussing on the Backend  side of a website, I write python and JavaScript
+                     Language.</p>
 
                    </Cell>
                    <Cell col={6}>
-                       <h2>Contant Me</h2>
+                       <h2>Contact Me</h2>
                        <hr/>
                        <div className="contact-list">
                        <List>
                             <ListItem>
                                 <ListItemContent style={{fontSize: '30px', fontFamily: 'Auton'}} >  <i className="fa fa-phone-square" aria-hidden="true"/>
-                              (123)09030363173</ListItemContent>
+                              (+123)09030363173</ListItemContent>
                             </ListItem>
-
-                            <ListItem>
-                                <ListItemContent style={{fontSize: '30px', fontFamily: 'Auton'}} >  <i className="fa fa-fax" aria-hidden="true"/>
-                              (123)09030363173</ListItemContent>
-                            </ListItem>
-
                             <ListItem>
                                 <ListItemContent style={{fontSize: '30px', fontFamily: 'Auton'}} >  <i className="fa fa-envelope" aria-hidden="true"/>
-                              sodiqb86@gmail.com</ListItemContent>
+                              balogunsodiq54@gmail.com</ListItemContent>
                             </ListItem>
 
-                            <ListItem>
-                                <ListItemContent style={{fontSize: '30px', fontFamily: 'Auton'}} >  <i className="fa fa-skype" aria-hidden="true"/>
-                              myskypeId</ListItemContent>
-                            </ListItem>
                            
                             </List>
                        </div>

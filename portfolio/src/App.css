@@ -7,7 +7,7 @@
 .landing-grid{
     background: #833ab4;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #2867f0, #96b5f7, #66acee); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
     text-align: center;
    
@@ -88,7 +88,7 @@ font-weight: bold;
 }
 /*  resume right css*/
 .resume-right-col{
-    background:rgb(160, 46, 46);
+    background: #f01f65;
     text-align: justify;
     color: white;
     padding: 2em;

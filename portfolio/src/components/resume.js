@@ -26,9 +26,9 @@ class Resume extends Component{
                             <h5>Address</h5>
                             <p>osogbo</p>
                             <h5>Phone</h5>
-                            <p>(123)09030363173</p>
+                            <p>(+123)09030363173</p>
                             <h5>Email</h5>
-                            <p>sodiqb86@gmail.com</p>
+                            <p>balogunsodiq54@gmail.com</p>
                             <h5>Web</h5>
                             <p>mywebsite.com</p>
                             <hr style={{borderTop: '3px solid #833fb2', width:'50%'}}/>
@@ -43,15 +43,7 @@ class Resume extends Component{
                         startYear={2015}
                         endYear={2021}
                         schoolName={'OBAFEMI AWOLOWO UNIVERSITY'}
-                        schoolDescription={'Obafemi Awolowo University (OAU), formerly known as University of Ife, is a federal government[1] owned and operated Nigerian university. The university is in the ancient city of Ile-Ife, Osun State, Nigeria. The university was founded in 1961 and classes commenced in October 1962[2][3] as the University of Ife by the regional government of Western Nigeria, led by late chief Samuel Ladoke Akintola, and was renamed Obafemi Awolowo University on 12 May 1987 in honour of Chief Obafemi Awolowo (1909–1987), first premier of the Western Region of Nigeria, whose brainchild the university was.[4]'}
-                        
-                        />
-
-                       <Education
-                        startYear={2016}
-                        endYear={2013}
-                        schoolName={'OBAFEMI AWOLOWO UNIVERSITY'}
-                        schoolDescription={'Obafemi Awolowo University (OAU), formerly known as University of Ife, is a federal government[1] owned and operated Nigerian university. The university is in the ancient city of Ile-Ife, Osun State, Nigeria. The university was founded in 1961 and classes commenced in October 1962[2][3] as the University of Ife by the regional government of Western Nigeria, led by late chief Samuel Ladoke Akintola, and was renamed Obafemi Awolowo University on 12 May 1987 in honour of Chief Obafemi Awolowo (1909–1987), first premier of the Western Region of Nigeria, whose brainchild the university was.[4]'}
+                        schoolDescription={'Obafemi Awolowo University (OAU), formerly known as University of Ife, is a federal government owned and operated Nigerian university. The university is in the ancient city of Ile-Ife, Osun State, Nigeria. The university was founded in 1961 and classes commenced in October 1962 as the University of Ife by the regional government of Western Nigeria, led by late chief Samuel Ladoke Akintola, and was renamed Obafemi Awolowo University on 12 May 1987 in honour of Chief Obafemi Awolowo (1909–1987), first premier of the Western Region of Nigeria, whose brainchild the university'}
                         
                         />
                         <hr style={{borderTop:'3px solid #e22347'}}/>
@@ -59,35 +51,48 @@ class Resume extends Component{
                         <h2>Experience</h2>
 
                         <Experience
-                        startYear={2009}
-                        endYear={2020}
+                        startYear={2020}
+                        endYear={'Till now'}
                         jobName={'First-Job'}
                         jobDescription={'A good programmer'}
                         />
 
                         <Experience
-                        startYear={2012}
-                        endYear={2016}
+                        startYear={2015}
+                        endYear={'Till now'}
                         jobName={'second-Job'}
-                        jobDescription={'Electrician'}
+                        jobDescription={'Electrical Engineer'}
                         />
                         <hr style={{borderTop:'3px solid #e22347'}}/>
                         <h2>Skills</h2>
-                        <Skill
-                        skill ='javascript'
+                       
+                          <Skill
+                    skill ='HTML/CSS'
                         progress={50}
                           />
+                           <Skill
+                  skill ='JAVASCRIPT'
+                        progress={60}
+                          />
                           <Skill
-                        skill ='HTML/CSS'
-                        progress={80}
+                      skill ='PYTHON'
+                        progress={60}
+                          />
+                          <Skill
+                    skill ='REACT JS'
+                        progress={50}
+                          />
+                           <Skill
+                  skill ='EXPRESS JS'
+                        progress={60}
                           />
                           <Skill
                         skill ='FLASK'
-                        progress={50}
+                        progress={60}
                           />
-                          <Skill
-                        skill ='REACT'
-                        progress={50}
+                           <Skill
+                        skill ='NODE JS'
+                        progress={60}
                           />
                     </Cell>
 
