@@ -6,6 +6,11 @@
     "node": "14.15.0",
     "npm": "6.14.8"
   },
+  "buildpacks":[
+    {
+      "url": "mars/create-reack-app"
+    }
+  ],
   "homepage": "https://dewll.github.io/sodfolio1/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
